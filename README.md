@@ -5,3 +5,12 @@ complete From Beginners to advanced
 2- Input
 3- Data-Types
 4- variables
+5- operators
+6- type-conversion
+7- literals
+8- if_else
+9- modules
+10- loops
+11- for-loops
+12- nested-loops
+13- loop-conditions
