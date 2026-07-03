@@ -14,3 +14,9 @@ complete From Beginners to advanced
 11- for-loops
 12- nested-loops
 13- loop-conditions
+14- string
+15- list
+16- zip
+17- tuple
+18- sets
+19- dictionary
