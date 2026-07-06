@@ -20,3 +20,4 @@ complete From Beginners to advanced
 17- tuple
 18- sets
 19- dictionary
+20- function
