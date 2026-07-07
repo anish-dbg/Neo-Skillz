@@ -21,3 +21,6 @@ complete From Beginners to advanced
 18- sets
 19- dictionary
 20- function
+21- lambda function
+22- virtual-env
+23- requirements.txt
