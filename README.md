@@ -24,3 +24,4 @@ complete From Beginners to advanced
 21- lambda function
 22- virtual-env
 23- requirements.txt
+24- file-handling
