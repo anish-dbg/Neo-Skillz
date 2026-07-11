@@ -25,3 +25,4 @@ complete From Beginners to advanced
 22- virtual-env
 23- requirements.txt
 24- file-handling
+25- serializable 
