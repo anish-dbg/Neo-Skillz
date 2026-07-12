@@ -26,3 +26,5 @@ complete From Beginners to advanced
 23- requirements.txt
 24- file-handling
 25- serializable 
+26- pickling
+27- exception
