@@ -28,3 +28,4 @@ complete From Beginners to advanced
 25- serializable 
 26- pickling
 27- exception
+28- logging
